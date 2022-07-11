@@ -1,0 +1,14 @@
+.DS*
+/target/
+target/*
+/bin/
+bin/*
+/generated/
+generated/*
+/.settings/
+.settings/*
+.classpath
+.project
+*.class
+*.prefs
+*.log

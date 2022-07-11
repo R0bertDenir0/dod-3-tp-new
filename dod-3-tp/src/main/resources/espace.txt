@@ -1,0 +1,12 @@
+C;0;2;2;green
+R;-3;0;2;1;blue
+C;5;2;3;red
+R;10;2;4;4;green
+C;-7;5;5;pink
+R;3;8;3;2;red
+C;-2;-5;2;black
+R;3;0;1;2;green
+C;-5;3;2;yellow
+R;-4;-4;10;2;blue
+C;-10;-5;6;magenta
+R;-3;-2;3;8;yellow
